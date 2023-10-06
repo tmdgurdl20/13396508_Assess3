@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: eb3d99731c2046148b2687da8666cebf
+guid: 6366b7c8b8a347e498a2d78b6f389fa4
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -107,7 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SpiderRight_0
+      name: RecoverSpiderDown_0
       rect:
         serializedVersion: 2
         x: 0
@@ -121,14 +121,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c48651a1a2cc7554d9b0a395d82dff1d
-      internalID: 285020042
+      spriteID: e176858fcb406ee47992923f744e543b
+      internalID: 1857654758
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpiderRight_1
+      name: RecoverSpiderDown_1
       rect:
         serializedVersion: 2
         x: 32
@@ -142,14 +142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37ff48cd8e8502c4492537a12fe6aa6d
-      internalID: 784062217
+      spriteID: 9933434742dd72d4ebe7f97420581161
+      internalID: -799445707
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpiderRight_2
+      name: RecoverSpiderDown_2
       rect:
         serializedVersion: 2
         x: 64
@@ -163,8 +163,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad15ddb9e3946ab4ebcd6be592dd2178
-      internalID: 853639859
+      spriteID: 1487c20617efe7143a2cec75b515a060
+      internalID: 236677816
       vertices: []
       indices: 
       edges: []
@@ -180,9 +180,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SpiderRight_0: 285020042
-      SpiderRight_1: 784062217
-      SpiderRight_2: 853639859
+      RecoverSpiderDown_0: 1857654758
+      RecoverSpiderDown_1: -799445707
+      RecoverSpiderDown_2: 236677816
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

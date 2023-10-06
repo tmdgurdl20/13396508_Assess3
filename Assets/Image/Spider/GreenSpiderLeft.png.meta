@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7774767ebecb8a8409113d61392ac27f
+guid: 7e70d50d5719250459f8f5b48074d7b1
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -46,8 +46,8 @@ TextureImporter:
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 1
-  spritePivot: {x: 0, y: 1}
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
@@ -107,7 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SpiderDown_0
+      name: SpiderLeft(G)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -121,14 +121,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85d7ff210357f3244a595f9879fa2825
-      internalID: 657092363
+      spriteID: a4fec8deaa241d34a99d73fde6a37575
+      internalID: 299904196
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpiderDown_1
+      name: SpiderLeft(G)_1
       rect:
         serializedVersion: 2
         x: 32
@@ -142,14 +142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 981a6b2f911035441a025d252c225c42
-      internalID: -2108288133
+      spriteID: e13e83331b300ee41bf0eb7d3d4aa455
+      internalID: -214152351
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpiderDown_2
+      name: SpiderLeft(G)_2
       rect:
         serializedVersion: 2
         x: 64
@@ -163,8 +163,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1457fd7692ee7754094c6b0d71f3be5d
-      internalID: -549984989
+      spriteID: a34faaa75bb970d45a627336edb738fd
+      internalID: 1241785208
       vertices: []
       indices: 
       edges: []
@@ -173,16 +173,16 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SpiderDown_0: 657092363
-      SpiderDown_1: -2108288133
-      SpiderDown_2: -549984989
+      SpiderLeft(G)_0: 299904196
+      SpiderLeft(G)_1: -214152351
+      SpiderLeft(G)_2: 1241785208
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

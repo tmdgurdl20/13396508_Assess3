@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 90dba88111e3b604f922aada799983c7
+guid: 90fd9fccdb159a440873a148a12a1e67
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -107,7 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SpiderUp_0
+      name: RecoverSpiderLeft_0
       rect:
         serializedVersion: 2
         x: 0
@@ -121,14 +121,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99edea0d440e6d045adcaa3d3598d981
-      internalID: 1830266459
+      spriteID: 9e7ef321ac6ac9641b694eae663a02ff
+      internalID: 128885212
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpiderUp_1
+      name: RecoverSpiderLeft_1
       rect:
         serializedVersion: 2
         x: 32
@@ -142,14 +142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d5b66f41f3ff124e939496155500a86
-      internalID: -1937156505
+      spriteID: abf2afdb5bcf70e44a7f2646c46c1767
+      internalID: 1021360127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpiderUp_2
+      name: RecoverSpiderLeft_2
       rect:
         serializedVersion: 2
         x: 64
@@ -163,8 +163,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3014d56f3f6fcdf4587062134432a4c0
-      internalID: -47317495
+      spriteID: 09082372f267ac849a376fb7b2af46f5
+      internalID: 779245497
       vertices: []
       indices: 
       edges: []
@@ -180,9 +180,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SpiderUp_0: 1830266459
-      SpiderUp_1: -1937156505
-      SpiderUp_2: -47317495
+      RecoverSpiderLeft_0: 128885212
+      RecoverSpiderLeft_1: 1021360127
+      RecoverSpiderLeft_2: 779245497
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
